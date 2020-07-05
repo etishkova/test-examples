@@ -1,0 +1,4 @@
+rootProject.name='SampleApp'
+include ':app'
+include ':samplelib-kotlin'
+include ':samplelib-java'
